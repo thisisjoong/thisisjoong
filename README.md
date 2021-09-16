@@ -1,9 +1,10 @@
-Welcome to Hyunjoong Kim's Github
+# 김현중(HyunJoong, Kim)  
+### Welcome to Hyunjoong Kim's GitHub
 
-- 👋 @thisisjoong
-- 👀 Data Engineering, Data Analysis
-- 🌱 Main Domain - E-sports, sports, music, etc.
-- 📫 How to reach me asfgzx3907@gmail.com
+👋 @thisisjoong  
+👀 Data Engineering, Data Analysis  
+🌱 Main Domain - E-sports, sports, music, etc.  
+📫 How to reach me asfgzx3907@gmail.com  
 
 <!---
 thisisjoong/thisisjoong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
