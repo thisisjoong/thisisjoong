@@ -1,7 +1,7 @@
 Welcome to Hyunjoong Kim's Github
 
 - 👋 @thisisjoong
-- 👀 I’m interested in Data Engineering
+- 👀 Data Engineering, Data Analysis
 - 🌱 Main Domain - E-sports, sports, music, etc.
 - 📫 How to reach me asfgzx3907@gmail.com
 
