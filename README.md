@@ -1,4 +1,4 @@
-# 김현중(HyunJoong, Kim)  
+# HyunJoong, Kim (Aiden)
 ### Welcome to Hyunjoong Kim's GitHub
 
 👋 @thisisjoong  
