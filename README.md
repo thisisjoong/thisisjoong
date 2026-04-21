@@ -1,9 +1,9 @@
-# HyunJoong, Kim (Aiden)
-### Welcome to Hyunjoong Kim's GitHub
+# Aiden
+### Welcome to Aiden Kim's GitHub
 
 👋 @thisisjoong  
-👀 Data Engineering, Data Analysis  
-🌱 Main Domain - E-sports, sports, music, etc.  
+👀 Data Analysis, Vibe Coding
+🌱 Main Domain - Sports, Customer-facing Product, Technical Support,  music, etc.  
 📫 How to reach me asfgzx3907@gmail.com  
 
 <!---
